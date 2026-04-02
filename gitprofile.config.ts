@@ -117,7 +117,7 @@ const CONFIG = {
       link: 'https://example.com',
     },
   ],
-  education: [
+  educations: [
     {
       institution: 'CSU Stanislaus',
       degree: 'Bachelor of Science in Biological Sciences',
