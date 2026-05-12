@@ -83,7 +83,7 @@ const CONFIG = {
       'https://github.com/tvanlaar/gitprofile/raw/main/VanLaarCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'Labroaroty autoclave maintenance and operation',
+    'Laboratory autoclave maintenance and operation',
     'Wright-Giemsa staining',
     'WBC Counter',
     'Git',
